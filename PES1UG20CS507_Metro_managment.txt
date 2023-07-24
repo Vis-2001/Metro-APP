@@ -1,0 +1,27 @@
+Project:
+	In a developing country like India where many industries are coming up to boast the economic and social cause like Make in India many factories are coming up in the extensions. Now for people to commute in a safe and economic manner, metro rails have been laid down by the government. Metro provides us with easy, smooth and environment friendly manner to travel from one place to another. Metro provides us with 2 types of options one to use a card and one to use tokens. 
+People that use in card tend to have in lots of securities issues such as:
+1.	Loss of card.
+2.	Difficulty in keeping track of who is using the card.
+To name a few things.
+
+To overcome this security issues I have created a basic prototype of what I think could be a way to solve in all these issues related to safety and security of the card.
+
+Software Libraries Used:
+Python
+Xampp
+Mariadb
+Mysql.connector
+streamlit
+
+We have used Xampp and mariadb as a backend software to store all the information related to the project
+
+For the frontend we have used streamlit to rpovide in with a interactive input output details
+
+we have coded everything using python platform and have connected to mariadb using mysql.connector library
+
+The code has 3 files 1st file to provide a basic frontend named as app.py
+procdure.py file implements the procedure related to the application
+functanalities.py implements rest of the facilities required for the application.
+
+To run the code download the file and run streammlit run app.py
